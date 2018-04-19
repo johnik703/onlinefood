@@ -1,0 +1,24 @@
+PODS:
+  - JHTAlertController (0.2.4)
+  - OneSignal (2.5.7)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - JHTAlertController
+  - OneSignal
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JHTAlertController
+    - OneSignal
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  JHTAlertController: 8999fdf41c60a3d6698a3415ff1448f4ce4680e5
+  OneSignal: 5be2eb3394e654b7467a190fe4d58147fc46bb78
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: 16db3dacf7b0e3eb37cfeebc5769ae8da1141468
+
+COCOAPODS: 1.5.0
